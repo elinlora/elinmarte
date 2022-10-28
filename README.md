@@ -13,20 +13,21 @@
 <h2 align="center">Skills</h2>
 
 <div align="center">
-                <br>
-                    <div align="center" >  
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
-                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-                    </div>
+	<br>
+		<div align="center" >  
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/html-5.png?raw=true" alt="html5" width="75" height="75"/> 
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/css-3.png?raw=true" alt="css3" width="75" height="75"/>
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/js.png?raw=true" alt="javascript" width="75" height="75"/>
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/php.png?raw=true" alt="php" width="75" height="75"/>
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/figma.png?raw=true" alt="figma" width="75" height="75"/>
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/photoshop.png?raw=true" alt="photoshop" width="75" height="75"/>
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/mailchimp.png?raw=true" alt="mailchimp" width="75" height="75"/> 
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/github.png?raw=true" alt="github" width="75" height="75"/> 
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/bitbucket.png?raw=true" alt="bitbucket" width="75" height="75"/>
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/jira.png?raw=true" alt="jira" width="75" height="75"/> 
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/shopify.png?raw=true" alt="shopify" width="75" height="75"/>
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/wordpress.png?raw=true" alt="wordpress" width="75" height="75"/> 
+		</div>
 </div>
 
 <br>
