@@ -1,7 +1,7 @@
 <div id="" align="center">
   <img src="https://github.com/elinmarte/elinmarte/blob/main/assets/elin-github-banner.png?raw=true" width="100%"/>
 </div>
-<h1 align="center">Hey 👋, I'm Elin Marte</h1>
+<h1 align="center">Hey 👋 I'm Elin Marte</h1>
 <h3 align="center">A Web & Email developer based in New York City.</h3>
 <h4 align="center">Hi my name is Elin Marte a web & email developer based out of NYC.</h4>
 
@@ -42,7 +42,7 @@
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg](https://github.com/elinmarte/elinmarte/blob/main/assets/goby-github-thumb.png?raw=true" alt="project 1" height="100%" />
+						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
