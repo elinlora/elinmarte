@@ -125,43 +125,43 @@
         </tr>
 		<tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">Project 5</h3>
                 <div align="center" >  
-                    <a href='https://elin-tushy.netlify.app/' target="_blank">
-                        <img src="https://github.com/elinmarte/elinmarte/blob/main/assets/tushy-github-thumb.png?raw=true" alt="project 3" height="100%" />
+                    <a href='https://elin-cxl.netlify.app/' target="_blank">
+                        <img src="https://github.com/elinmarte/elinmarte/blob/main/assets/cxl-github-thumb.png?raw=true" alt="project 5" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/elinmarte/tushy" target="_blank">
+                        <a href="https://github.com/elinmarte/cxl" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://elin-tushy.netlify.app/" target="_blank">
+						<a href="https://elin-cxl.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Tushy Landing Page</p>
+		    <p>CXL Email Capture Landing Page</p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Project 6</h3>
                 <div align="center">  
-                    <a href='https://elin-confect.netlify.app/' target="_blank">
-                        <img src="https://github.com/elinmarte/elinmarte/blob/main/assets/confect-github-thumb.png?raw=true" alt="project 4" height="100%" />
+                    <a href='https://elin-pexa-park.netlify.app/' target="_blank">
+                        <img src="https://github.com/elinmarte/elinmarte/blob/main/assets/pexapark-github-thumb.png?raw=true" alt="project 6" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/elinmarte/confect" target="_blank">
+                        <a href="https://github.com/elinmarte/pexa-park" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://elin-confect.netlify.app/" target="_blank">
+						<a href="https://elin-pexa-park.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Confect Email Capture Landing Page</p>
+		    <p>Pexa-Park Email Capture Landing Page</p>
                 </div>	
             </td>
         </tr>
