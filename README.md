@@ -47,8 +47,8 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://github.com/elinmarte/goby"/>
+						<a href="https://github.com/elinmarte/goby" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://elin-goby.netlify.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
