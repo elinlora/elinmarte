@@ -41,16 +41,16 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://elin-goby.netlify.app/' target="_blank">
 						<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/goby-github-thumb.png?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
 						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+							<img src="https://github.com/elinmarte/goby"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://elin-goby.netlify.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
