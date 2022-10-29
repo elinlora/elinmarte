@@ -1,7 +1,7 @@
 <div id="" align="center">
   <img src="https://github.com/elinmarte/elinmarte/blob/main/assets/elin-banner-no-text.png?raw=true" width="100%"/>
 </div>
-<h1 align="center">Hey 👋 I'm Elin Marte</h1>
+<h1 align="center">Hey 👋🏼 I'm Elin Marte 👨🏻‍💻</h1>
 <h3 align="center">A Web & Email developer based in New York City.</h3>
 <h4 align="center">Passionate self-taught email developer, who enjoys constantly learning new skills and technologies. Dedicated and detail-orienting with my work and studies. I'm excellent at self-managing during independent projects, as well as collaborating in a team setting.</h4>
 
