@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://github.com/elinmarte/elinmarte/blob/main/assets/elin-banner-no-text.png?raw=true" width="100%"/>
+  <img src="https://github.com/elinmarte/elinmarte/blob/main/assets/elin-banner-cfb.png?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hey, I'm Elin 👨🏻‍💻</h1>
 <h3 align="center">A Web & Email developer based in New York City 🗽</h3>
