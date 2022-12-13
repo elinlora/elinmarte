@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hey, I'm Elin 👨🏻‍💻</h1>
 <h3 align="center">A Web & Email developer based in New York City 🗽</h3>
-<h4 align="center">Passionate self-taught email developer, who enjoys constantly learning new skills and technologies. Dedicated and detail-orienting with my work and studies. I'm excellent at self-managing during independent projects, as well as collaborating in a team setting.</h4>
+<h4 align="center"></h4>
 
 <hr>
 
@@ -17,16 +17,7 @@
 		<div align="center" >  
 			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/html-5.png?raw=true" alt="html5" width="75" height="75"/> 
 			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/css-3.png?raw=true" alt="css3" width="75" height="75"/>
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/js.png?raw=true" alt="javascript" width="75" height="75"/>
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/php.png?raw=true" alt="php" width="75" height="75"/>
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/figma.png?raw=true" alt="figma" width="75" height="75"/>
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/photoshop.png?raw=true" alt="photoshop" width="75" height="75"/>
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/mailchimp.png?raw=true" alt="mailchimp" width="75" height="75"/> 
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/github.png?raw=true" alt="github" width="75" height="75"/> 
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/bitbucket.png?raw=true" alt="bitbucket" width="75" height="75"/>
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/jira.png?raw=true" alt="jira" width="75" height="75"/> 
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/shopify.png?raw=true" alt="shopify" width="75" height="75"/>
-			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/wordpress.png?raw=true" alt="wordpress" width="75" height="75"/> 
+			<img src="https://github.com/elinmarte/elinmarte/blob/main/assets/js.png?raw=true" alt="javascript" width="75" height="75"/> 
 		</div>
 </div>
 
